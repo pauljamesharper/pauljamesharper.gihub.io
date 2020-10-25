@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Paul James Harper"
+  avatar : "https://avatars3.githubusercontent.com/u/1447071?s=460&u=460e49262d8d0d7bfdb933e0e3969cdaad9aedc1&v=4"
+  bio    : "There's a war out there, old friend. A world war. And it's not about who's got the most bullets. It's about who controls the information."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
